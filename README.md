@@ -10,7 +10,7 @@ A passionate backend and frontend developer candidate from Turkey.
 
 🌱 I’m currently learning PHP, HTML, CSS, and JavaScript.
 
-🔭 I’m currently working on `(similar to instagram)` [project-instagram](https://project-instagram-khaki.vercel.app/)
+🔭 I’m currently working on `(similar to instagram)` [project-instagram](https://project-instagram-khaki.vercel.app/).
 
 🤝 I’m looking for help with PHP.
 
@@ -45,7 +45,3 @@ A passionate backend and frontend developer candidate from Turkey.
 [![github](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kalawaja)
 [![github](https://skillicons.dev/icons?i=instagram)](https://instagram.com/kalawaja)
 [![github](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ramazanilter/)
-
-
-
-
